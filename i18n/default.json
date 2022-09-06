@@ -1,0 +1,246 @@
+{
+  "deluxe-hats": "Deluxe Hats",
+
+  "arcane-hat.name": "Arcane Hat",
+  "arcane-hat.description": "Random chance to delay time.",
+
+  "archer's-cap.name": "Archer's Cap",
+  "archer's-cap.description": "Shots from slingshot deal more damage the further they travel.",
+
+  "beanie.name": "Beanie",
+  "beanie.description": "Monsters have a greater chance of dropping loot.",
+
+  "blobfish-mask.name": "Blobfish Mask",
+  "blobfish-mask.description": "Triple the chance to find treasure while fishing at night.",
+
+  "blue-bonnet.name": "Blue Bonnet",
+  "blue-bonnet.description": "No effect.",
+
+  "blue-cowboy-hat.name": "Blue Cowboy Hat",
+  "blue-cowboy-hat.description": "While riding the horse and for 30 seconds after dismounting gain the Buckaroo Buff:\n+2 Speed",
+
+  "bowler-hat.name": "Bowler Hat",
+  "bowler-hat.description": "No effect.",
+
+  "bridal-veil.name": "Bridal Veil",
+  "bridal-veil.description": "No effect.",
+
+  "butterfly-bow.name": "Butterfly Bow",
+  "butterfly-bow.description": "Spawns Butterflies around you while outside.\nPeople in the same outdoor area as you will gain 5 friendship every 7 seconds.",
+
+  "cat-ears.name": "Cat Ears",
+  "cat-ears.description": "When you are hit, meow and gain Skittish Kitty Buff:\n+3 Speed\n+2 Attack",
+
+  "chef-hat.name": "Chef Hat",
+  "chef-hat.description": "Double the buff from eating food.",
+
+  "chicken-mask.name": "Chicken Mask",
+  "chicken-mask.description": "No effect.",
+
+  "cone-hat.name": "Cone Hat",
+  "cone-hat.description": "No effect.",
+
+  "cool-can.name": "Cool Can",
+  "cool-can.description": "When outside in spring get the Season Protection Buff:\n+2 Foraging\n+1 Farming\n+1 Fishing",
+
+  "copper-pan.name": "Copper Pan",
+  "copper-pan.description": "No effect.",
+
+  "cowboy-hat.name": "Cowboy Hat",
+  "cowboy-hat.description": "While riding the horse gain the Buckeroo Buff:\n+2 Speed",
+
+  "cowgal-hat.name": "Cowgal Hat",
+  "cowgal-hat.description": "While riding the horse gain the Buckeroo Buff:\n+2 Speed",
+
+  "cowpoke-hat.name": "Cowpoke Hat",
+  "cowpoke-hat.description": "No effect.",
+
+  "daisy.name": "Daisy",
+  "daisy.description": "No effect.",
+
+  "delicate-bow.name": "Delicate Bow",
+  "delicate-bow.description": "Sparkles inside!\nPeople in the same inside area as you will gain 5 friendship every 7 seconds.",
+
+  "dinosaur-hat.name": "Dinosaur Hat",
+  "dinosaur-hat.description": "No effect.",
+
+  "earmuffs.name": "Earmuffs",
+  "earmuffs.description": "When outside in winter get the Season Protection Buff:\n+2 Foraging\n+1 Farming\n+1 Fishing",
+
+  "elegant-turban.name": "Elegant Turban",
+  "elegant-turban.description": "No effect.",
+
+  "emily's-magic-hat.name": "Emily's Magic Hat",
+  "emily's-magic-hat.description": "No effect.",
+
+  "eye-patch.name": "Eye Patch",
+  "eye-patch.description": "No effect.",
+
+  "fashion-hat.name": "Fashion Hat",
+  "fashion-hat.description": "No effect.",
+
+  "fedora.name": "Fedora",
+  "fedora.description": "When in the Mines or Skull Cavern gain the \"Fortune and glory, kid.\" Buff:\n+2 Luck",
+
+  "fishing-hat.name": "Fishing Hat",
+  "fishing-hat.description": "While outside and not on the beach get the Shaded Buff:\n+2 Fishing",
+
+  "flat-topped-hat.name": "Flat Topped Hat",
+  "flat-topped-hat.description": "No effect.",
+
+  "floppy-beanie.name": "Floppy Beanie",
+  "floppy-beanie.description": "No effect.",
+
+  "garbage-hat.name": "Garbage Hat",
+  "garbage-hat.description": "No effect.",
+
+  "gnome's-cap.name": "Gnome's Cap",
+  "gnome's-hat.description": "No effect.",
+
+  "goblin-mask.name": "Goblin Mask",
+  "goblin-mask.description": "No effect.",
+
+  "golden-mask.name": "Golden Mask",
+  "golder-mask.description": "Damage enemies near you every 3 seconds, the damage can kill mummies.",
+
+  "good-ol'-cap.name": "Good Ol' Cap",
+  "good-ol'-cap.description": "When outside in spring, fall or summer get The Forager Buff:\n+2 Foraging",
+
+  "green-turban.name": "Green Turban",
+  "green-turban.description": "No effect.",
+
+  "hair-bone.name": "Hair Bone",
+  "hair-bone.description": "No effect.",
+
+  "hard-hat.name": "Hard Hat",
+  "hard-hat.description": "Reduce damage done by flying monsters by 25%.",
+
+  "hunter's-cap.name": "Hunter's Cap",
+  "hunter's-cap.description": "When outside in fall get the Season Protection Buff:\n+2 Foraging\n+1 Farming\n+1 Fishing",
+
+  "knight's-helmet.name": "Knight's Helmet",
+  "knight's-helmet.description": "Gain +4 armour and +2 resistance.",
+
+  "living-hat.name": "Living Hat",
+  "living-hat.description": "No effect.",
+
+  "logo-cap.name": "Logo Cap",
+  "logo-cap.description": "No effect.",
+
+  "lucky-bow.name": "Lucky Bow",
+  "lucky-bow.description": "Gain Lucky charm Buff:\n+1 Luck",
+
+  "magic-cowboy-hat.name": "Magic Cowboy Hat",
+  "magic-cowboy-hat.description": "No effect.",
+
+  "magic-turban.name": "Magic Turban",
+  "magic-turban.description": "No effect.",
+
+  "mouse-ears.name": "Mouse Ears",
+  "mouse-ears.description": "When you are hit gain Skittish Mouse Buff:\n+4 Speed",
+
+  "mushroom-cap.name": "Mushroom Cap",
+  "mushroom-cap.description": "No effect.",
+
+  "official-cap.name": "Official Cap",
+  "official-cap.description": "While on the Beach gain the Ol' Mariner Buff:\n+2 Fishing",
+
+  "panda-hat.name": "Panda Hat",
+  "panda-hat.description": "No effect.",
+
+  "party-hat.name": "Party Hat",
+  "party-hat.description": "Gifts given on a birthdays give even more friendship.",
+
+  "pirate-hat.name": "Pirate Hat",
+  "pirate-hat.description": "Double the chance to find treasure while fishing",
+
+  "plum-chapeau.name": "Plum Chapeau",
+  "plum-chapeau.description": "No effect.",
+
+  "polka-bow.name": "Polka Bow",
+  "polka-bow.description": "No effect.",
+
+  "propeller-hat.name": "Propeller Hat",
+  "propeller-hat.description": "No effect.",
+
+  "pumpkin-mask.name": "Pumpkin Mask",
+  "pumpkin-mask.description": "Spawn a horse and mount it.\nThe horse will disappear when you unmount it.",
+
+  "red-cowboy-hat.name": "Red Cowboy Hat",
+  "red-cowboy-hat.description": "While riding the horse and for 30 seconds after dismounting gain the Buckeroo Buff:\n+2 Speed",
+
+  "sailor's-hat.name": "Sailor's Cap",
+  "sailor's-hat.description": "When tipsy gain the Drunken Sailor Buff:\n+10 Attack",
+
+  "santa-hat.name": "Santa Hat",
+  "santa-hat.description": "No effect.",
+
+  "skeleton-mask.name": "Skeleton Mask",
+  "skeleton-mask.description": "Shoot out bones when you get hit that deal 40 damage on impact.",
+
+  "sombrero.name": "Sombrero",
+  "sombrero.description": "No effect.",
+
+  "sou'wester.name": "Sou'wester",
+  "sou'wester.description": "While outside in the rain, gain the Fishing in the Rain Buff:\n+4 Fishing",
+
+  "spotted-headscarf.name": "Spotted Headscarf",
+  "spotted-headscarf.description": "No effect.",
+
+  "squire's-helmet.name": "Squire's Helmet",
+  "squire's-helmet.description": "Gain +2 armour and +2 attack",
+
+  "straw-hat.name": "Straw Hat",
+  "straw-hat.description": "When it's dawn and sunny, gain Dawn Farming Buff:\n+3 Farming",
+
+  "tiara.name": "Tiara",
+  "tiara.description": "When sleeping increase the chance for the fairy farm event.",
+
+  "top-hat.name": "Top Hat",
+  "top-hat.description": "No effect.",
+
+  "totem-mask.name": "Totem Mask",
+  "totem-mask.description": "Chance not to consume totem on use.",
+
+  "tropiclip.name": "Tropiclip",
+  "tropiclip.description": "No effect.",
+
+  "trucker-hat.name": "Trucker Hat",
+  "trucker-hat.description": "When outside in summer get the Season Protection Buff:\n+2 Foraging\n+1 Farming\n+1 Fishing",
+
+  "watermelon-band.name": "Watermelon Band",
+  "watermelon-band.description": "No effect.",
+
+  "wearable-dwarf-mask.name": "Wearable Dwarf Helm",
+  "wearable-dwarf-mask.description": "You can Understand Dwarves.\nWhen entering a new level of a mine gain Mad Dwarf King buff:\n+4 Mining\n+2 Speed\n+1 Attack.",
+
+  "white-turban.name": "White Turban",
+  "white-turban.description": "No effect.",
+
+  "witch-hat.name": "Witch Hat",
+  "witch-hat.description": "When sleeping, increase chance for the witch farm event.",
+
+  "buffs.buckeroo": "Buckeroo",
+  "buffs.skittish-kitty": "Skittish Kitty",
+  "buffs.head-chef": "Head Chef",
+  "buffs.season-protection": "Season Protection",
+  "buffs.fortune-and-glory": "\"Fortune and glory, kiddo.\"",
+  "buffs.shaded": "Shaded",
+  "buffs.forager": "Forager",
+  "buffs.lucky-charming": "Lucky Charming",
+  "buffs.ol'-mariner": "Ol' Mariner",
+  "buffs.drunken-sailor": "Drunken Sailor",
+  "buffs.fishing-in-rain": "Fishing in the Rain",
+  "buffs.dawn-raining": "Dawn Farming",
+  "buffs.mad-dwarf-king": "Mad Dwarf King",
+
+  "attributes.speed": "Speed",
+  "attributes.attack": "Attack",
+  "attributes.foraging": "Foraging",
+  "attributes.farming": "Farming",
+  "attributes.fishing": "Fishing",
+  "attributes.luck": "Luck",
+  "attributes.mining": "Mining",
+
+  "daredevil-name": "Daredevil"
+}

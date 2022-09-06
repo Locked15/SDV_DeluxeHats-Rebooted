@@ -1,0 +1,10 @@
+{
+  "Name": "DeluxeHats",
+  "Author": "domsim1 and Locked15",
+  "Version": "1.1",
+  "Description": "Hats have unique effects!",
+  "UniqueID": "domsim1.DeluxeHats",
+  "EntryDll": "DeluxeHats_Rebooted.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": ["Nexus:5836"]
+}

@@ -1,0 +1,246 @@
+{
+  "deluxe-hats": "Шляпы Плюс",
+
+  "arcane-hat.name": "Загадочная Шляпа",
+  "arcane-hat.description": "Возможность случайно замедлить время.",
+
+  "archer's-cap.name": "Шляпа Лучника",
+  "archer's-cap.description": "Урон снарядов рогаток зависит от расстояния снаряда.",
+
+  "beanie.name": "Вязаная Шапочка",
+  "beanie.description": "Увеличенный шанс получить добычу с монстров.",
+
+  "blobfish-mask.name": "Маска Пузыря-Рыбы",
+  "blobfish-mask.description": "В три раза увеличивает найти сокровище во время ночной рыбалки.",
+
+  "blue-bonnet.name": "Голубой Чепчик",
+  "blue-bonnet.description": "Эффекта нет.",
+
+  "blue-cowboy-hat.name": "Синяя Ковбойская Шляпа",
+  "blue-cowboy-hat.description": "Пока вы скачите на лошади и 30 секунд после вы получаете эффекты:\n+2 Скорость",
+
+  "bowler-hat.name": "Котелок",
+  "bowler-hat.description": "Эффекта нет.",
+
+  "bridal-veil.name": "Свадебная Фата",
+  "bridal-veil.description": "Эффекта нет.",
+
+  "butterfly-bow.name": "Бант-Бабочка",
+  "butterfly-bow.description": "Создает бабочек, пока вы на улице.\nЛюди, находящиеся рядом с вами получают +5 дружбы каждые 7 секунд.",
+
+  "cat-ears.name": "Кошачьи Ушки",
+  "cat-ears.description": "Когда вы получаете урон, вы мяукаете и получаете эффекты:\n+3 Скорость\n+2 Атака",
+
+  "chef-hat.name": "Поварской Колпак",
+  "chef-hat.description": "Усиливает эффект от приготовленной еды.",
+
+  "chicken-mask.name": "Маска Курицы",
+  "chicken-mask.description": "Эффекта нет.",
+
+  "cone-hat.name": "Коническая Шляпа",
+  "cone-hat.description": "Эффекта нет.",
+
+  "cool-can.name": "Крутая Кепка",
+  "cool-can.description": "Пока вы находитесь на улице весной, вы получаете эффекты:\n+2 Сбор\n+1 Фермерство\n+1 Рыбная ловля",
+
+  "copper-pan.name": "Медная Сковорода",
+  "copper-pan.description": "Эффекта нет.",
+
+  "cowboy-hat.name": "Ковбойская Шляпа",
+  "cowboy-hat.description": "Пока вы скачите на лошади, вы получаете эффект:\n+2 Скорость",
+
+  "cowgal-hat.name": "Шляпа Девушки-Ковбоя",
+  "cowgal-hat.description": "Пока вы скачите на лошади, вы получаете эффект:\n+2 Скорость",
+
+  "cowpoke-hat.name": "Шляпа Погонщика",
+  "cowpoke-hat.description": "Эффекта нет.",
+
+  "daisy.name": "Маргаритка",
+  "daisy.description": "Эффекта нет.",
+
+  "delicate-bow.name": "Изящный Бант",
+  "delicate-bow.description": "Сверкает!\nЛюди в той же локации, что и вы, получают +5 дружбы каждые 7 секунд.",
+
+  "dinosaur-hat.name": "Шляпа-Динозавр",
+  "dinosaur-hat.description": "Эффекта нет.",
+
+  "earmuffs.name": "Теплые Наушники",
+  "earmuffs.description": "Пока вы на улице зимой, вы получаете эффекты:\n+2 Сбор\n+1 Фермерство\n+1 Рыбная ловля",
+
+  "elegant-turban.name": "Элегантный Тюрбан",
+  "elegant-turban.description": "Эффекта нет.",
+
+  "emily's-magic-hat.name": "Волшебная Шляпа Эмили",
+  "emily's-magic-hat.description": "Эффекта нет.",
+
+  "eye-patch.name": "Глазная Повязка",
+  "eye-patch.description": "Эффекта нет.",
+
+  "fashion-hat.name": "Модная Шляпа",
+  "fashion-hat.description": "Эффекта нет.",
+
+  "fedora.name": "Федора",
+  "fedora.description": "Пока вы в опасном месте, вы получаете эффекты:\n+2 Удача",
+
+  "fishing-hat.name": "Рыбацкая Шляпа",
+  "fishing-hat.description": "Пока вы на улице и не на пляже, вы получаете эффекты:\n+2 Рыбная ловля",
+
+  "flat-topped-hat.name": "Канотье",
+  "flat-topped-hat.description": "Эффекта нет.",
+
+  "floppy-beanie.name": "Разношенная Вязаная Шапочка",
+  "floppy-beanie.description": "Эффекта нет.",
+
+  "garbage-hat.name": "Мусорная Шляпа",
+  "garbage-hat.description": "Эффекта нет.",
+
+  "gnome's-cap.name": "Шапка Гнома",
+  "gnome's-hat.description": "Эффекта нет.",
+
+  "goblin-mask.name": "Маска Гоблина",
+  "goblin-mask.description": "Эффекта нет.",
+
+  "golden-mask.name": "Золотая Маска",
+  "golder-mask.description": "Наносит урон противникам рядом с вами каждые 3 секунды. Вы можете убивать мумий.",
+
+  "good-ol'-cap.name": "Старая Добрая Кепка",
+  "good-ol'-cap.description": "Пока вы находитесь на улице летом, вы получаете эффект:\n+2 Сбор",
+
+  "green-turban.name": "Зеленый тюрбан",
+  "green-turban.description": "Эффекта нет.",
+
+  "hair-bone.name": "Кость в Волосах",
+  "hair-bone.description": "Эффекта нет.",
+
+  "hard-hat.name": "Каска",
+  "hard-hat.description": "Снижает урон от летающих существ на 25%.",
+
+  "hunter's-cap.name": "Охотничья Шляпа",
+  "hunter's-cap.description": "Пока вы находитесь на улице осенью вы получаете эффект:\n+2 Сбор\n+1 Фермерство\n+1 Рыбная ловля",
+
+  "knight's-helmet.name": "Рыцарский Шлем",
+  "knight's-helmet.description": "Дает +4 защиты, +2 сопротивляемости.",
+
+  "living-hat.name": "Живая Шляпа",
+  "living-hat.description": "Эффекта нет.",
+
+  "logo-cap.name": "Кепка с Логотипом",
+  "logo-cap.description": "Эффекта нет.",
+
+  "lucky-bow.name": "Счастливый Бант",
+  "lucky-bow.description": "Дарует вам немного удачи.",
+
+  "magic-cowboy-hat.name": "Волшебная Ковбойская Шляпа",
+  "magic-cowboy-hat.description": "Эффекта нет.",
+
+  "magic-turban.name": "Волшебный Тюрбан",
+  "magic-turban.description": "Эффекта нет.",
+
+  "mouse-ears.name": "Мышиные Ушки",
+  "mouse-ears.description": "Когда вы получаете урон, вы получаете эффект:\n+4 Скорость",
+
+  "mushroom-cap.name": "Грибная Шляпка",
+  "mushroom-cap.description": "Эффекта нет.",
+
+  "official-cap.name": "Кепка от Униформы",
+  "official-cap.description": "Пока вы на пляже, вы получаете эффект:\n+2 Рыбная ловля",
+
+  "panda-hat.name": "Шляпка Панды",
+  "panda-hat.description": "Эффекта нет.",
+
+  "party-hat.name": "Шляпка Тусовщика",
+  "party-hat.description": "Подарки, подаренные на дни рождения, дают больше дружбы.",
+
+  "pirate-hat.name": "Пиратская Шляпа",
+  "pirate-hat.description": "Удваивает шанс найти сокровище во время рыбалки.",
+
+  "plum-chapeau.name": "Сливовая Шляпа",
+  "plum-chapeau.description": "Эффекта нет.",
+
+  "polka-bow.name": "Бант в Горошек",
+  "polka-bow.description": "Эффекта нет.",
+
+  "propeller-hat.name": "Шляпа с Пропеллером",
+  "propeller-hat.description": "Эффекта нет.",
+
+  "pumpkin-mask.name": "Тыквенная Маска",
+  "pumpkin-mask.description": "Материализует лошадь и седлает её.\nСпешивание приведет к исчезновению лошади.",
+
+  "red-cowboy-hat.name": "Красная Ковбойская Шляпа",
+  "red-cowboy-hat.description": "Пока вы скачите верхом и 30 секунд после, вы получаете эффект:\n+2 Скорость",
+
+  "sailor's-hat.name": "Бескозырка",
+  "sailor's-hat.description": "Когда вы пьянеете, вы получаете эффект:\n+10 Атака",
+
+  "santa-hat.name": "Шляпа Санты",
+  "santa-hat.description": "Эффекта нет.",
+
+  "skeleton-mask.name": "Маска Скелета",
+  "skeleton-mask.description": "Стреляет костями в ближайших противников. Кости наносят 40 урона при попадании.",
+
+  "sombrero.name": "Сомбреро",
+  "sombrero.description": "Эффекта нет.",
+
+  "sou'wester.name": "Зюйдвестка",
+  "sou'wester.description": "Пока вы находитесь на улице и идет дождь, вы получаете эффект:\n+4 Рыбная ловля",
+
+  "spotted-headscarf.name": "Пестрая косынка",
+  "spotted-headscarf.description": "Эффекта нет.",
+
+  "squire's-helmet.name": "Шлем Сквайра",
+  "squire's-helmet.description": "Дает +2 урона и +2 защиты.",
+
+  "straw-hat.name": "Соломенная Шляпа",
+  "straw-hat.description": "В утренние теплые дни вы получаете эффект:\n+3 Фермерство",
+
+  "tiara.name": "Тиара",
+  "tiara.description": "Увеличивает шанс ночного события на ферме.",
+
+  "top-hat.name": "Цилиндр",
+  "top-hat.description": "Эффекта нет.",
+
+  "totem-mask.name": "Тотемная Маска",
+  "totem-mask.description": "Даёт шанс не потратить тотем при использовании.",
+
+  "tropiclip.name": "Тропиклипс",
+  "tropiclip.description": "Эффекта нет.",
+
+  "trucker-hat.name": "Бейсболка",
+  "trucker-hat.description": "Пока вы на улице летом, вы получаете эффект:\n+2 Сбор\n+1 Фермерство\n+1 Рыбная ловля",
+
+  "watermelon-band.name": "Арбузный Ободок",
+  "watermelon-band.description": "Эффекта нет.",
+
+  "wearable-dwarf-mask.name": "Носибельный Шлем Дварфов",
+  "wearable-dwarf-mask.description": "Вы можете понимать дварфов.\nКогда вы спускаетесь на новый уровень шахты, вы получаете эффект:\n+4 Шахтерство\n+2 Скорость\n+1 Атака.",
+
+  "white-turban.name": "Белый Тюрбан",
+  "white-turban.description": "Эффекта нет.",
+
+  "witch-hat.name": "Шляпа Ведьмы",
+  "witch-hat.description": "Увеличивает шанс ночных событий на ферме.",
+
+  "buffs.buckeroo": "Наездник",
+  "buffs.skittish-kitty": "Пугливый Кот",
+  "buffs.head-chef": "Шеф-Повар",
+  "buffs.season-protection": "Сезонная Защита",
+  "buffs.fortune-and-glory": "\"Удача и Слава, новичок.\"",
+  "buffs.shaded": "Затенение",
+  "buffs.forager": "Сборщик",
+  "buffs.lucky-charming": "Приманивание Удачи",
+  "buffs.ol'-mariner": "Старый Мореход",
+  "buffs.drunken-sailor": "Пьяный Мореход",
+  "buffs.fishing-in-rain": "Рыбалка в Дождь",
+  "buffs.dawn-raining": "Утреннее Фермерство",
+  "buffs.mad-dwarf-king": "Безумный Король Дварфов",
+
+  "attributes.speed": "Скорость",
+  "attributes.attack": "Атака",
+  "attributes.foraging": "Сбор",
+  "attributes.farming": "Фермерство",
+  "attributes.fishing": "Рыбная ловля",
+  "attributes.luck": "Удача",
+  "attributes.mining": "Шахтерство",
+
+  "daredevil-name": "Сорвиголова"
+}

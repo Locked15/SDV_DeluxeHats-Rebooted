@@ -1,0 +1,10 @@
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\bin\Debug\net5.0\DeluxeHats_Rebooted.deps.json
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\bin\Debug\net5.0\DeluxeHats_Rebooted.dll
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\bin\Debug\net5.0\DeluxeHats_Rebooted.pdb
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.csproj.AssemblyReference.cache
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.AssemblyInfoInputs.cache
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.AssemblyInfo.cs
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.csproj.CoreCompileInputs.cache
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.dll
+C:\Users\Земфира\source\repos\!StardewValleyMods\DeluxeHats\Current\DeluxeHats_Rebooted\obj\Debug\net5.0\DeluxeHats_Rebooted.pdb
