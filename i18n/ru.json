@@ -1,5 +1,6 @@
 {
-  "deluxe-hats": "Шляпы Плюс",
+  "system.deluxe-hats": "Шляпы Плюс",
+  "system.no-effect": "Эффекта нет.",
 
   "arcane-hat.name": "Загадочная Шляпа",
   "arcane-hat.description": "Возможность случайно замедлить время.",

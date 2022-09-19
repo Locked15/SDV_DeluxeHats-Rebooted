@@ -416,7 +416,7 @@ namespace DeluxeHats
                         if (LocalizedContentManager.CurrentLanguageCode != LocalizedContentManager.LanguageCode.en)
                             __instance.displayName = strArray[strArray.Length - 1];
 
-                        __instance.description = $"{strArray[1]}\n\n{Translation.Get("deluxe-hats")}:\n";
+                        __instance.description = $"{strArray[1]}\n\n{Translation.Get("system.deluxe-hats")}:\n";
                         __result = true;
 
                         AppendDescription(__instance, strArray);
@@ -509,7 +509,7 @@ namespace DeluxeHats
                 MagicCowboyHat.Name => MagicCowboyHat.DisplayedDescription,
                 MagicTurban.Name => MagicTurban.DisplayedDescription,
 
-                _ => "No effect.",
+                _ => HatService.Helper.Translation.Get("system.no-effect")
             };
         }
     }

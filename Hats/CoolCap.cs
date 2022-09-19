@@ -39,7 +39,7 @@ namespace DeluxeHats.Hats
                             attack: 0,
                             minutesDuration: 1,
                             source: "Deluxe Hats",
-                            displaySource: HatService.Translation.Get("deluxe-hats"))
+                            displaySource: HatService.Translation.Get("system.deluxe-hats"))
                         {
                             which = HatService.BuffId,
                             description = $"{HatService.Translation.Get("buffs.season-protection")}\n" +

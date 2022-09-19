@@ -1,5 +1,6 @@
 {
-  "deluxe-hats": "Deluxe Hats",
+  "system.deluxe-hats": "Deluxe Hats",
+  "system.no-effect": "No Effect",
 
   "arcane-hat.name": "Arcane Hat",
   "arcane-hat.description": "Random chance to delay time.",
